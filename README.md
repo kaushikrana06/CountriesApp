@@ -9,15 +9,15 @@ Refreshing Data: Swipe-to-refresh functionality to update country information.
 # Tools and Technologies
 The development of CountriesName leverages a modern tech stack and robust architectural patterns, ensuring a high-quality and maintainable application. Key technologies and methodologies include:
 
-MVVM Architecture: Utilizes the Model-View-ViewModel (MVVM) pattern, promoting separation of concerns and easier testing.
-Dagger2: For efficient and scalable dependency injection, simplifying the management of object lifecycles and dependencies.
-Junit: Employed for comprehensive and reliable unit testing to ensure application stability and performance.
-Kotlin: Developed in Kotlin, providing a more concise and expressive syntax compared to Java.
-Glide: For efficient and effective image loading and caching.
-Retrofit: A type-safe HTTP client for Android and Java, making it easier to consume RESTful web services.
-JetPack Compose: Modern toolkit for building native UI, offering a more intuitive approach to UI development on Android.
-Android Studio: The official integrated development environment (IDE) for Android app development.
-RXJAVA: Used for composing asynchronous and event-based programs by using observable sequences, enhancing the app's responsiveness and performance.
+MVVM Architecture: Utilizes the Model-View-ViewModel (MVVM) pattern, promoting separation of concerns and easier testing.<br>
+Dagger2: For efficient and scalable dependency injection, simplifying the management of object lifecycles and dependencies.<br>
+Junit: Employed for comprehensive and reliable unit testing to ensure application stability and performance.<br>
+Kotlin: Developed in Kotlin, providing a more concise and expressive syntax compared to Java.<br>
+Glide: For efficient and effective image loading and caching.<br>
+Retrofit: A type-safe HTTP client for Android and Java, making it easier to consume RESTful web services.<br>
+JetPack Compose: Modern toolkit for building native UI, offering a more intuitive approach to UI development on Android.<br>
+Android Studio: The official integrated development environment (IDE) for Android app development.<br>
+RXJAVA: Used for composing asynchronous and event-based programs by using observable sequences, enhancing the app's responsiveness and performance.<br>
 # Screenshots
 
 
